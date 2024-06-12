@@ -5,16 +5,16 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="¿Que ofrecemos?" text="Nuestro trabajo consiste en facilitar a nuestros clientes las mejores oportunidades, siguiendo los estándares de calidad adecuados y buscando siempre la mejor atención, para así trasformarnos en una gran familia" />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p>Explore the Library</p>
+      <h1 className="gradient__text">Confianza,Confort y Seguridad, son nuestras directrices.</h1>
+      <p>Nuestras facilidades</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Beneficios" text="En nuestra empresa, brindamos soluciones innovadoras que optimizan la eficiencia operativa y garantizan un crecimiento sostenible para nuestros clientes." />
+      <Feature title="100% Seguros" text="Priorizamos la seguridad ofreciendo soluciones avanzadas que protegen los datos y garantizan la integridad operativa de nuestros clientes." />
+      <Feature title="Soporte" text="Destacamos por ofrecer un soporte técnico excepcional, asegurando que nuestros clientes reciban asistencia rápida y experta en todo momento." />
     </div>
   </div>
 );

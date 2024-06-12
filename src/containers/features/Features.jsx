@@ -4,28 +4,28 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Remesas Internacionales',
+    text: 'Nuestros clientes se encuentran en mas de 20 paises y nuestra función es facilitarles el envío de dinero a sus familiares, asi como otros servicios de recargas internacionales y mucho más.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Gestión de Vuelos y Reservas',
+    text: 'Ofrecemos dentro de la plataforma la posibilidad de compra de vuelos a cualquier parte del mundo, reservaciones de hoteles, así como la gestión de trámites consulares en los países que abarcamos',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Desarrollo Web, y presencia online',
+    text: 'Trabajamos activamente en el desarrollo de Páginas Web, y de la identidad Visual de los clientes que contratan nuestros servicios, facilitando el crecimiento exponencial de sus negocios y respectivas ventas',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Marketing y Representación Multilingue',
+    text: 'Ofrecemos una amplia variedad de servicios de Marketing orientada al crecimiento visual de cada empresa y de la identidad digital de la misma. Se incluye también la capacidad de adaptarnos a clientes de varios idiomas, inglés, portugués y español son los más pedidos.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">Estamos radicados principalmente en Cuba, Brazil y España.</h1>
+      <p>Solicita contactarnos a traves de canales oficiales</p>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (

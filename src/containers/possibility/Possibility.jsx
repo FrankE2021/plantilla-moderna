@@ -8,10 +8,10 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
-      <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-      <h4>Request Early Access to Get Started</h4>
+      <h4>Solicita nuestros servicios</h4>
+      <h1 className="gradient__text">Amplia variedad <br /> de pagos en diversas plataformas</h1>
+      <p>Aceptamos pagos a nivel mundial, desde cuentas bancarias internacionales o locales, hasta cryptomonedas.</p>
+      <h4>Las posibilidades están más allá de tú imaginación</h4>
     </div>
   </div>
 );
